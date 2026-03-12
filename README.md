@@ -50,8 +50,8 @@
 <img width="977" height="655" alt="Screenshot 2026-03-12 101729" src="https://github.com/user-attachments/assets/37b3c15b-4955-43f9-afeb-5c66cd6b95c2" />
 
 
-### Name:
-### Register Number: 
+### Name: BALAJI T
+### Register Number: 212225240019
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
